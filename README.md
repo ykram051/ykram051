@@ -66,9 +66,6 @@
 ---
 
 <h3>🔥 Activity & Contributions</h3>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ykram051" alt="GitHub Streak" /></a>
-
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ykram051&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
