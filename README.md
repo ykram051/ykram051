@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**ykram051/ykram051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ikram, a Computer Science student passionate about **AI, cybersecurity, cloud computing, and software development**. I enjoy working on challenging projects, learning new technologies, and sharing knowledge.
 
-Here are some ideas to get you started:
+### 🚀 About Me:
+- 🔭 I’m currently working on **a Bookstore API project & AI library implementation**.
+- 🌱 I’m currently learning **DevOps, AI fundamentals, and advanced backend development**.
+- 💬 Ask me about **C++, Python, Cloud Computing, Competitive Programming**.
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/ikrambenfellah/) | [GitHub](https://github.com/ykram051)**
+- ⚡ Fun fact: I love **football, Formula 1, and motorcycles** 🏍️.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats:
+<div align="left">
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api?username=ykram051&theme=tokyonight&show_icons=true" height=150 />
+  </a>
+  <a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykram051&langs_count=5&theme=tokyonight" height=150 />
+  </a>
+</div>
