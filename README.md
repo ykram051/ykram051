@@ -1,6 +1,7 @@
 <!-- 
   Replace "ykram051" with your GitHub username in all stat URLs.
   GitHub allows HTML in README.md, but some CSS may be stripped.
+  This snippet uses only inline styling to stay safe.
 -->
 
 <h2 align="center">Hi there, I'm Ikram 👋</h2>
@@ -38,6 +39,9 @@
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
 ---
@@ -52,7 +56,7 @@
 
 <h3>🔥 Activity & Contributions</h3>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ykram051&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ykram051&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
