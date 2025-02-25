@@ -4,8 +4,7 @@
   This snippet uses only inline styling to stay safe.
 -->
 
-<html>
-  <body style="font-family: Arial, sans-serif; margin: 0; padding: 0;">
+
 
     <!-- Top Section with Gradient -->
     <div style="
@@ -89,5 +88,4 @@
       </p>
     </div>
 
-  </body>
-</html>
+
