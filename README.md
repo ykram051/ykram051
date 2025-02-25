@@ -1,18 +1,4 @@
-<!-- 
-  Replace "ykram051" with your GitHub username in the stats URLs.
-  GitHub allows HTML in READMEs, but it may sanitize advanced CSS.
-  This snippet uses only inline styling to stay safe.
--->
 
-
-
-    <!-- Top Section with Gradient -->
-    <div style="
-      background: linear-gradient(135deg, #1e1e2f, #42275a);
-      color: #ffffff;
-      padding: 30px 20px;
-      text-align: center;
-    ">
       <h1 style="margin: 0; font-size: 2.5rem;">
         Hi there, I'm Ikram <span style="font-size: 2rem;">👋</span>
       </h1>
@@ -22,7 +8,7 @@
         <strong>software development</strong>. I love working on challenging projects, 
         learning new technologies, and sharing knowledge.
       </p>
-    </div>
+
 
     <!-- About Me Section -->
     <div style="padding: 20px;">
