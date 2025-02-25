@@ -21,7 +21,7 @@
   <li>🌱 I’m currently learning <b>DevOps, AI fundamentals, and advanced backend development</b>.</li>
   <li>💬 Ask me about <b>C++, Python, Cloud Computing, Competitive Programming</b>.</li>
   <li>📫 How to reach me: 
-    <a href="www.linkedin.com/in/ikram-benfellah-30a178353" target="_blank">LinkedIn</a> | 
+    <a href="https://www.linkedin.com/in/ikram-benfellah-30a178353/?trk=public-profile-join-page" target="_blank">LinkedIn</a> | 
     <a href="https://github.com/ykram051" target="_blank">GitHub</a>
   </li>
   <li>⚡ Fun fact: I love football, Formula 1, and motorcycles 🏍️.</li>
