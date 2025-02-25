@@ -1,7 +1,6 @@
 <!-- 
-  Replace "ykram051" with your GitHub username in the stats URLs.
-  GitHub allows HTML in READMEs, but it may sanitize advanced CSS.
-  This snippet uses only inline styling to stay safe.
+  Replace "ykram051" with your GitHub username in all stat URLs.
+  GitHub allows HTML in README.md, but some CSS may be stripped.
 -->
 
 <h2 align="center">Hi there, I'm Ikram 👋</h2>
@@ -47,6 +46,24 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ykram051&theme=tokyonight&show_icons=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ykram051&langs_count=5&theme=tokyonight" height="150" />
+</p>
+
+---
+
+<h3>🔥 Activity & Contributions</h3>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ykram051&theme=tokyonight&hide_border=true&mode=weekly" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ykram051&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+<h3>🏆 GitHub Achievements</h3>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ykram051&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
