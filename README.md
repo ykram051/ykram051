@@ -6,7 +6,7 @@
 <h2 align="center">Hi there, I'm Ikram 👋</h2>
 
 <p align="center">
-  A <strong>Computer Science student</strong> passionate about 
+  A 3 rd <strong>Computer Science student</strong> passionate about 
   <strong>AI, cybersecurity, cloud computing,</strong> and 
   <strong>software development</strong>. I love working on challenging projects, 
   learning new technologies, and sharing knowledge.
@@ -20,7 +20,7 @@
   <li>🌱 I’m currently learning <b>DevOps, AI fundamentals, and advanced backend development</b>.</li>
   <li>💬 Ask me about <b>C++, Python, Cloud Computing, Competitive Programming</b>.</li>
   <li>📫 How to reach me: 
-    <a href="https://www.linkedin.com/in/ikrambenfellah/" target="_blank">LinkedIn</a> | 
+    <a href="https://ma.linkedin.com/in/ikram-benfellah-30a178353" target="_blank">LinkedIn</a> | 
     <a href="https://github.com/ykram051" target="_blank">GitHub</a>
   </li>
   <li>⚡ Fun fact: I love football, Formula 1, and motorcycles 🏍️.</li>
